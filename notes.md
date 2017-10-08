@@ -732,7 +732,7 @@ Distance is 3293843
 
 ```
 ### Combining atoms
-`54``
+```
 [16]> (setf curr-min 1)
 1
 [17]> (setf curr-max 3)
